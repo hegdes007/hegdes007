@@ -4,7 +4,7 @@ I am a web developer.
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP
 
 - 🔭 I’m currently working on a restaurant site. 
-- 🌱 I’m currently learning React. 
+- 🌱 I’m currently learning Angular. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hegdes007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hegdes007/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hegdes_007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hegdes007.github.io)  

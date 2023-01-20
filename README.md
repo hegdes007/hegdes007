@@ -3,7 +3,7 @@ I am a web developer.
 
 Skills: Angular / JS / HTML / CSS / BOOTSTRAP
 
-- 🔭 I’m currently working on a E-commerce site. 
+- 🔭 I’m currently working on E-commerce site. 
 - 🌱 I’m currently upskilling on the Angular framework. 
 
 
